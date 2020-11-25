@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 Current Projects
-- [Socialstuff / Trale](https://github.com/socialstuff-org): open source private and secure chat client  
+- [Socialstuff / Trale](https://github.com/socialstuff-org): open source private and secure chat client
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
 - OpenDiary: Private and secure diary
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)

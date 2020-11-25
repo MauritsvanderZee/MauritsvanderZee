@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### 🔭 Current Projects
-- [Socialstuff / Trale](https://github.com/socialstuff-org): open source private and secure chat client
+- [Socialstuff / Trale](https://github.com/socialstuff-org): Private and secure chat client
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
 - OpenDiary: Private and secure diary
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
-- COAPME: Tool for managing IT assets during M&A related transactions
+- COAPME: Management suite for IT assets of M&A related transactions
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
 
 ### 🌱 Currently Learning

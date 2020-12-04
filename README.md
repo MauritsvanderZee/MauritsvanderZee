@@ -3,7 +3,7 @@
 ### 🧍 Some information about me
 
 - Maurits (21)
-- Founder at (Code Lake)[https://code-lake.com]
+- Founder at [Code Lake](https://code-lake.com)
 - IT Consultant
 - UI Designer
 

@@ -40,7 +40,7 @@
 ### GitHub Stats
 
 <a href="https://github.com/MauritsvanderZee/MauritsvanderZee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauritsvanderZee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=426ff5&bg_color=1d1f21" alt="Maurits' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauritsvanderZee&show_icons=true,commits&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=426ff5&bg_color=1d1f21" alt="Maurits' GitHub Stats" />
 </a>
 
 ### Great literature

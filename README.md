@@ -7,48 +7,46 @@
 - IT Consultant
 - UI Designer
 
-### 🔭 Current Projects
+### 🔭 Project Spotlight
 
 <table style="border: none;">
     <tr>
-        <td></td>
-        <td><img src="https://i.pinimg.com/originals/fa/56/36/fa5636e57996a29097c6ff7e5b8b9b06.jpg"></td>
-        <td><img src="https://i.pinimg.com/originals/fa/56/36/fa5636e57996a29097c6ff7e5b8b9b06.jpg"></td>
+        <td><img src="https://cdn.code-lake.com/github/trale.png"></td>
+        <td><img src="https://cdn.code-lake.com/github/opendiary.png"></td>
     </tr>
     <tr>
-        <td>Project Name</td>
         <td>Trale Messenger</td>
         <td>Open Diary</td>
     </tr>
     <tr>
-        <td>Website</td>
+        <td>Private and secure chat client</td>
+        <td>Private and secure diary platform</td>
+    </tr>
+    <tr>
         <td><a href="https://trale.org">trale.org</a></td>
         <td style="font-style: italic;">to be announced</td>
     </tr>
     <tr>
-        <td>Type</td>
-        <td>Open Source Project <a href="https://cdn.code-lake.com/github/trale.png">[Source Code]</a></td>
-        <td>Open Source Project <a href="https://cdn.code-lake.com/github/opendiary.png">[Source Code]</a></td>
+        <td>Open Source AGPL 3.0 <a href="https://github.com/socialstuff-org">[Source Code]</a></td>
+        <td>Open Source AGPL 3.0</td>
     </tr>
     <tr>
-        <td>Status</td>
-        <td>In development</td>
-        <td>In development, releasing soon (ETA: 1st Quarter 2021)</td>
+        <td>Status: In development</td>
+        <td>Status: In development, releasing soon (ETA: 1st Quarter 2021)</td>
     </tr>
 
 </table>
 
-- [Socialstuff / Trale](https://github.com/socialstuff-org): Private and secure chat client
-![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
-- OpenDiary: Private and secure diary
-![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
+### 🔭 Further projects
+
 - COAPME: Management suite for IT assets of M&A related transactions
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
+- Gridcard automater: Browser plugin automating grid card security response for Citrix myCloud logins
 
-### 🌱 Currently Learning / Improving
-- Laravel
-- Angular
-- SASS
+### 🌱 Favorite technologies / Currently Improving
+- Laravel / PHP
+- Angular / Typescript
+- SASS / CSS
 - OpenAPI specification
 
 ### Tools and Technologies

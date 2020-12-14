@@ -1,6 +1,36 @@
 ### Hi there 👋
 
 ### 🔭 Current Projects
+
+<table style="border: none;">
+    <tr>
+        <td></td>
+        <td><img src="https://i.pinimg.com/originals/fa/56/36/fa5636e57996a29097c6ff7e5b8b9b06.jpg"></td>
+        <td><img src="https://i.pinimg.com/originals/fa/56/36/fa5636e57996a29097c6ff7e5b8b9b06.jpg"></td>
+    </tr>
+    <tr>
+        <td>Project Name</td>
+        <td>Trale Messenger</td>
+        <td>Open Diary</td>
+    </tr>
+    <tr>
+        <td>Website</td>
+        <td><a href="https://trale.org">trale.org</a></td>
+        <td style="font-style: italic;">to be announced</td>
+    </tr>
+    <tr>
+        <td>Type</td>
+        <td>Open Source Project <a href="https://cdn.code-lake.com/github/trale.png">[Source Code]</a></td>
+        <td>Open Source Project <a href="https://cdn.code-lake.com/github/opendiary.png">[Source Code]</a></td>
+    </tr>
+    <tr>
+        <td>Status</td>
+        <td>In development</td>
+        <td>In development, releasing soon (ETA: 1st Quarter 2021)</td>
+    </tr>
+
+</table>
+
 - [Socialstuff / Trale](https://github.com/socialstuff-org): open source private and secure chat client  
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
 - COAPME: Tool for managing IT assets during M&A related transactions

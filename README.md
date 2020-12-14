@@ -2,7 +2,7 @@
 
 ### 🧍 Some information about me
 
-- Maurits v.d.Zee (21)
+- Maurits v. d. Zee (21)
 - Entrepreneur
 - Studying Software Engineering in NL
 - Founder at [Code Lake](https://code-lake.com)

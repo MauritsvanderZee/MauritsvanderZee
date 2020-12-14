@@ -2,10 +2,11 @@
 
 ### 🧍 Some information about me
 
-- Maurits (21)
+- Maurits v.d.Zee (21)
+- Entrepreneur
+- Studying Software Engineering in NL
 - Founder at [Code Lake](https://code-lake.com)
-- IT Consultant
-- UI Designer
+- IT Consultant at [Ernst & Young / EY](https://ey.com)
 
 ### 🔭 Project Spotlight
 

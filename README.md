@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🧍 Some information about me
+
+- Maurits (21)
+- Founder at [Code Lake](https://code-lake.com)
+- IT Consultant
+- UI Designer
+
 ### 🔭 Current Projects
 
 <table style="border: none;">
@@ -31,15 +38,18 @@
 
 </table>
 
-- [Socialstuff / Trale](https://github.com/socialstuff-org): open source private and secure chat client  
+- [Socialstuff / Trale](https://github.com/socialstuff-org): Private and secure chat client
 ![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
-- COAPME: Tool for managing IT assets during M&A related transactions
+- OpenDiary: Private and secure diary
+![](https://img.shields.io/badge/Open_Source-AGPL_3.0-informational?style=flat&logo=linux&logoColor=white&color=426ff5)
+- COAPME: Management suite for IT assets of M&A related transactions
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
 
-### 🌱 Currently Learning
-- OpenAPI specification
+### 🌱 Currently Learning / Improving
+- Laravel
 - Angular
 - SASS
+- OpenAPI specification
 
 ### Tools and Technologies
 
@@ -60,5 +70,11 @@
 ### GitHub Stats
 
 <a href="https://github.com/MauritsvanderZee/MauritsvanderZee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauritsvanderZee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=426ff5&bg_color=1d1f21" alt="Maurits' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauritsvanderZee&show_icons=true&include_all_commits=true&custom_title=Maurits' GitHub Stats&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=426ff5&bg_color=1d1f21" alt="Maurits' GitHub Stats" />
 </a>
+
+### Great literature
+
+- RESTful Web Services Cookbook, Allamaraju, O'REILLY
+- RESTful Java with JAX-RS  2.0, Burke, O'REILLY
+- Laws of UX, Jon Yablonski, O'REILLY

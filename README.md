@@ -47,6 +47,7 @@
 ### 🌱 Favorite technologies / Currently Improving
 - Laravel / PHP
 - Angular / Typescript
+- NodeJS / Express / NestJS
 - SASS / CSS
 - OpenAPI specification
 

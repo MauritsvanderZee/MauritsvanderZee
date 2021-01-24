@@ -42,7 +42,7 @@
 
 - COAPME: Management suite for IT assets of M&A related transactions
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
-- Gridcard automater: Browser plugin automating grid card security response for Citrix myCloud logins
+- [Gridcard automater](https://chrome.google.com/webstore/detail/gridcard-automater/cffjlgnkgncbjpnfkgcihodhojcgcfhe): Browser plugin automating grid card security response for Citrix myCloud logins
 
 ### 🌱 Favorite technologies / Currently Improving
 - Laravel / PHP

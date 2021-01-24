@@ -44,10 +44,11 @@
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
 - [Gridcard automater](https://chrome.google.com/webstore/detail/gridcard-automater/cffjlgnkgncbjpnfkgcihodhojcgcfhe): Browser plugin automating grid card security response for Citrix myCloud logins
 
-### 🌱 Favorite technologies / Currently Improving
-- Laravel / PHP
-- Angular / Typescript
-- NodeJS / Express / NestJS
+### 🌱 Favorite technologies / Currently using
+- PHP / Laravel
+- Typescript / Angular
+- NodeJS / NestJS / Express
+- MongoDB / Mongoose
 - SASS / CSS
 - OpenAPI specification
 

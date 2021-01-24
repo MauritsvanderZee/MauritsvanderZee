@@ -6,7 +6,7 @@
 - Entrepreneur
 - Studying Software Engineering in NL
 - Founder at [Code Lake](https://code-lake.com)
-- IT Consultant at [Ernst & Young / EY](https://ey.com)
+- IT Consultant at [Ernst & Young (EY)](https://ey.com)
 
 ### 🔭 Project Spotlight
 

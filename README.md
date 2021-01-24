@@ -33,7 +33,7 @@
     </tr>
     <tr>
         <td>Status: In development</td>
-        <td>Status: In development, releasing soon (ETA: 1st Quarter 2021)</td>
+        <td>Status: In development (ETA: late 2021)</td>
     </tr>
 
 </table>

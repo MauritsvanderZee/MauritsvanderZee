@@ -28,7 +28,7 @@
         <td style="font-style: italic;">to be announced</td>
     </tr>
     <tr>
-        <td>Open Source AGPL 3.0 <a href="https://github.com/socialstuff-org">[Source Code]</a></td>
+        <td>Open Source AGPL 3.0 <a href="https://github.com/trale-org">[Source Code]</a></td>
         <td>Open Source AGPL 3.0</td>
     </tr>
     <tr>

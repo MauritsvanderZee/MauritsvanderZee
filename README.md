@@ -13,27 +13,27 @@
 <table style="border: none;">
     <tr>
         <td><img src="https://cdn.code-lake.com/github/trale.png"></td>
-        <td><img src="https://cdn.code-lake.com/github/opendiary.png"></td>
+        <td><img src="https://cdn.code-lake.com/github/explorerz.png"></td>
     </tr>
     <tr>
         <td>Trale Messenger</td>
-        <td>Open Diary</td>
+        <td>eXplorerz</td>
     </tr>
     <tr>
         <td>Private and secure chat client</td>
-        <td>Private and secure diary platform</td>
+        <td>Travel tracker</td>
     </tr>
     <tr>
         <td><a href="https://trale.org">trale.org</a></td>
-        <td style="font-style: italic;">to be announced</td>
+        <td><a href="https://explorerz.io">explorerz.io</a></td>
     </tr>
     <tr>
         <td>Open Source AGPL 3.0 <a href="https://github.com/trale-org">[Source Code]</a></td>
-        <td>Open Source AGPL 3.0</td>
+        <td><a href="https://github.com/explorerz-app">[eXplorerz Organization]</a></td>
     </tr>
     <tr>
-        <td>Status: In development</td>
-        <td>Status: In development (ETA: late 2021)</td>
+        <td>Status: On hold</td>
+        <td>Status: In development (ETA: Summer 2021, BETA: Spring 2021)</td>
     </tr>
 
 </table>

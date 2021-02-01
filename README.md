@@ -43,6 +43,7 @@
 - COAPME: Management suite for IT assets of M&A related transactions
 - [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
 - [Gridcard automater](https://chrome.google.com/webstore/detail/gridcard-automater/cffjlgnkgncbjpnfkgcihodhojcgcfhe): Browser plugin automating grid card security response for Citrix myCloud logins
+- [Airlines](https://github.com/MauritsvanderZee/airlines): A collection of airlines and their corresponding logos as scaleable vector graphic (.svg)
 
 ### 🌱 Favorite technologies / Currently using
 - PHP / Laravel

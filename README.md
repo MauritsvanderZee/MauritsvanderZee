@@ -4,8 +4,9 @@
 
 - Maurits v. d. Zee (22)
 - Entrepreneur
-- Studying Software Engineering in NL
-- Founder at [Code Lake](https://code-lake.com)
+- Software Engineer, specialized in data architecture, cloud-based applications, SaaS
+- Founder of [eXplorerz](https://github.com/eXplorerz-app)
+- Co-developer at [Trale](https://github.com/trale-org)
 - IT Consultant at [Ernst & Young (EY)](https://ey.com)
 
 ### 🔭 Project Spotlight

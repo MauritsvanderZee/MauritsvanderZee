@@ -33,8 +33,8 @@
         <td><a href="https://github.com/explorerz-app">[eXplorerz Organization]</a></td>
     </tr>
     <tr>
-        <td>Status: In development</td>
-        <td>Status: In development (Beta ETA: Late 2021)</td>
+        <td>Status: On hold</td>
+        <td>Status: In development (Beta ETA: Q1 2022)</td>
     </tr>
 
 </table>

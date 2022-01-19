@@ -42,14 +42,13 @@
 ### 🔭 Further projects
 
 - COAPME: Management suite for IT assets of M&A related transactions
-- [firmenwagenkennzeichen.de](https://firmenwagenkennzeichen.de): Website for tracking company car license plates in Germany
 - [Gridcard automater](https://chrome.google.com/webstore/detail/gridcard-automater/cffjlgnkgncbjpnfkgcihodhojcgcfhe): Browser plugin automating grid card security response for Citrix myCloud logins
 
 ### 🌱 Favorite technologies / Currently using
-- PHP / Laravel
 - Typescript / Angular
 - NodeJS / NestJS / Express
-- MongoDB / Mongoose
+- PHP / Laravel
+- PostgreSQL / TypeORM / MongoDB / Mongoose
 - SASS / CSS
 - OpenAPI specification
 

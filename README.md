@@ -73,9 +73,3 @@
 <a href="https://github.com/MauritsvanderZee/MauritsvanderZee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauritsvanderZee&show_icons=true&include_all_commits=true&custom_title=Maurits' GitHub Stats&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=426ff5&bg_color=1d1f21" alt="Maurits' GitHub Stats" />
 </a>
-
-### Great literature
-
-- RESTful Web Services Cookbook, Allamaraju, O'REILLY
-- RESTful Java with JAX-RS  2.0, Burke, O'REILLY
-- Laws of UX, Jon Yablonski, O'REILLY

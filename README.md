@@ -2,47 +2,11 @@
 
 ### 🧍 Some information about me
 
-- Maurits v. d. Zee (22)
-- Entrepreneur
+- Maurits v. d. Zee (23)
+- Entrepreneur / Founder
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
-- Founder of [eXplorerz](https://github.com/eXplorerz-app)
 - Co-developer at [Trale](https://github.com/trale-org)
 - IT Consultant at [Ernst & Young (EY)](https://ey.com)
-
-### 🔭 Project Spotlight
-
-<table style="border: none;">
-    <tr>
-        <td><img src="https://cdn.code-lake.com/github/trale.png"></td>
-        <td><img src="https://cdn.code-lake.com/github/explorerz.png"></td>
-    </tr>
-    <tr>
-        <td>Trale Messenger</td>
-        <td>eXplorerz</td>
-    </tr>
-    <tr>
-        <td>Private and secure chat client</td>
-        <td>Travel tracker</td>
-    </tr>
-    <tr>
-        <td><a href="https://trale.org">trale.org</a></td>
-        <td><a href="https://explorerz.io">explorerz.io</a></td>
-    </tr>
-    <tr>
-        <td>Open Source AGPL 3.0 <a href="https://github.com/trale-org">[Source Code]</a></td>
-        <td><a href="https://github.com/explorerz-app">[eXplorerz Organization]</a></td>
-    </tr>
-    <tr>
-        <td>Status: On hold</td>
-        <td>Status: In development (Beta ETA: Q1 2022)</td>
-    </tr>
-
-</table>
-
-### 🔭 Further projects
-
-- COAPME: Management suite for IT assets of M&A related transactions
-- [Gridcard automater](https://chrome.google.com/webstore/detail/gridcard-automater/cffjlgnkgncbjpnfkgcihodhojcgcfhe): Browser plugin automating grid card security response for Citrix myCloud logins
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular

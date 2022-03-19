@@ -4,6 +4,7 @@
 
 - Maurits v. d. Zee (23)
 - Entrepreneur / Founder
+- Aviation enthusiast ✈️
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
 - Co-developer at [Trale](https://github.com/trale-org)
 - IT Consultant at [Ernst & Young (EY)](https://ey.com)

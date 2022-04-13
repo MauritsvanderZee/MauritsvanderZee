@@ -3,7 +3,7 @@
 ### 🧍 Some information about me
 
 - Maurits v. d. Zee (23)
-- Entrepreneur / Founder
+- Founder at [flyoxide](https://github.com/flyoxide)
 - Aviation enthusiast ✈️
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
 - Co-developer at [Trale](https://github.com/trale-org)

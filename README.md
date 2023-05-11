@@ -2,12 +2,10 @@
 
 ### 🧍 Some information about me
 
-- Maurits van der Zee (23)
-- Founder at [flyoxide](https://github.com/flyoxide)
 - Aviation enthusiast ✈️
+- Founder at [flyoxide](https://github.com/flyoxide)
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
-- Co-developer at [Trale](https://github.com/trale-org)
-- Transaction Strategy Consultant at [EY-Parthenon](https://www.ey.com/de_de/strategy)
+- M&A IT Strategy Consultant at [EY-Parthenon](https://www.ey.com/de_de/strategy)
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular

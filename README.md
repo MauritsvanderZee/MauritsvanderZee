@@ -3,9 +3,8 @@
 ### 🧍 Some information about me
 
 - Aviation enthusiast ✈️
-- Founder at [flyoxide](https://github.com/flyoxide)
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
-- M&A IT Strategy Consultant at [EY-Parthenon](https://www.ey.com/de_de/strategy)
+- IT Strategy Consultant at [EY-Parthenon](https://www.ey.com/de_de/strategy)
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular

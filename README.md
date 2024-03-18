@@ -9,10 +9,8 @@
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular
 - NodeJS / NestJS / Express
-- PHP / Laravel
 - PostgreSQL / TypeORM / MongoDB / Mongoose
 - SASS / CSS
-- OpenAPI specification
 
 ### Tools and Technologies
 
@@ -26,9 +24,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=426ff5)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=426ff5)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=426ff5)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=426ff5)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=426ff5)
-![](https://img.shields.io/badge/Spec-OpenAPI-informational?style=flat&logo=openapi-initiative&logoColor=white&color=426ff5)
 
 ### GitHub Stats
 

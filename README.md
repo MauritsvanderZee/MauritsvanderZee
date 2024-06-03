@@ -4,7 +4,7 @@
 
 - Aviation enthusiast ✈️
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
-- IT Strategy Consultant at [EY-Parthenon](https://www.ey.com/de_de/strategy)
+- IT Architect at [BCG Platinion](bcgplatinion.com)
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular

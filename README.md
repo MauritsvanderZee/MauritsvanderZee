@@ -4,7 +4,7 @@
 
 - Aviation enthusiast ✈️
 - Software Engineer, specialized in data architecture, cloud-based applications, SaaS
-- IT Architect at [BCG Platinion](bcgplatinion.com)
+- IT Architect at [BCG Platinion](https://bcgplatinion.com)
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular

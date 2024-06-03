@@ -3,9 +3,9 @@
 ### 🧍 Some information about me
 
 - Aviation enthusiast ✈️
-- Software Engineer, specialized in data architecture, cloud-based applications, SaaS
 - IT Architect @ [BCG Platinion](https://bcgplatinion.com)
 - Co-Founder & Tech-Lead @ [flyoxide](https://flyoxide.com)
+- Software Engineer, specialized in data architecture, cloud-based applications, SaaS
 
 ### 🌱 Favorite technologies / Currently using
 - Typescript / Angular
